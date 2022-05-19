@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chudiobeta
+- 👋 Hi, I’m @Lilly
 - 👀 I’m interested in BI, Data analysis
 - 🌱 I’m currently learning BI, Data analysis and reporting
 - 💞️ I’m looking to collaborate on BI and Data
